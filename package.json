@@ -1,0 +1,24 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "In order to consolidate the foundation of front-end technology, including JS, CSS, algorithms and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs44445/javascript-practice.git"
+  },
+  "keywords": [],
+  "author": "cs44445",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs44445/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/cs44445/javascript-practice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
